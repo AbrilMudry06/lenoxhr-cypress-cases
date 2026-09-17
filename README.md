@@ -41,3 +41,7 @@ Para ejecutar las pruebas desde la terminal:
 ```powershell
 npm run cy:run
 ```
+SUCCESS CASES:
+<img width="1413" height="805" alt="image" src="https://github.com/user-attachments/assets/6cf05d74-9f1f-487d-afbb-b368bfca40d6" />
+<img width="1412" height="794" alt="image" src="https://github.com/user-attachments/assets/e860dd7e-ddbe-4a05-bebe-2e592b8719ae" />
+
